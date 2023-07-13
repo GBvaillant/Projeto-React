@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "sadada",
+      "budget": "32423",
+      "cost": 0,
+      "services": [],
+      "id": 16
+    },
+    {
+      "name": "Meu projeto 1",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 17
+    },
+    {
+      "name": "meu projeto 2 ",
+      "budget": "13000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 18
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
