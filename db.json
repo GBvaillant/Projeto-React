@@ -1,14 +1,27 @@
 {
   "projects": [
     {
-      "name": "meu projeto 2 ",
-      "budget": "13000",
+      "name": "Projeto Atualizado",
+      "budget": "2500",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2000,
+      "services": [
+        {
+          "name": "SERVIÇO 1",
+          "cost": "1000",
+          "description": "coisas",
+          "id": "598c2ef0-4297-4284-a072-46942e3dd36c"
+        },
+        {
+          "name": "add dev node",
+          "cost": "1000",
+          "description": "xxxx",
+          "id": "33c15aed-6e09-4d39-998f-f6a8ee0f91af"
+        }
+      ],
       "id": 18
     },
     {
