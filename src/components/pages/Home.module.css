@@ -11,19 +11,19 @@
 .home_container h1 {
     font-size: 2.5em;
     margin-bottom: .5em;
-    color: #D8E9A8;
+    color: #ffbb33;
 
 }
 
 .home_container h1 span {
-    color: #4E9F3D;
+    color: #ffbb33;
     padding: 0 .2em;
-    background-color: #D8E9A8;
+    background-color: #222;
 }
 
 .home_container p {
     margin-bottom: 1.5em;
-    color: #D8E9A8;
+    color: #222;
 }
 
 .home_container img {

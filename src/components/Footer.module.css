@@ -1,5 +1,5 @@
 .footer {
-    background-color: #191A19;
+    background-color: #222;
     color: #fff;
     padding: 3em;
     text-align: center;
@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     list-style-type: none;
-    color: #D8E9A8;
+    color: #fff;
 }
 
 .social_list li {
@@ -17,7 +17,7 @@
 }
 
 .social_list li:hover {
-    color: #4E9F3D;
+    color: #ffbb33;
 }
 
 .social_list svg {
